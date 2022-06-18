@@ -1,7 +1,6 @@
 # Instagram Auto Report Bot
 
-## Auto 
-#### [Windows/TERMUX/Android]
+#### Auto Setup Command [Windows/TERMUX/Android]
 
 `bash setup.sh`
 
