@@ -6,5 +6,7 @@
 
 # REQUIREMENTS 
 `pip install requests`
+<Br>
 `pip install pyfiglet`
+<Br>
 `pip install colorama'
