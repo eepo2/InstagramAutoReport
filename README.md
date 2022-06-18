@@ -1,12 +1,14 @@
 # Instagram Auto Report Bot
 
-# One Time Command
+# Auto Setup [Windows/TERMUX/Android]
 
-`pip install requests && pyfiglet && coloramma`
+`bash setup.sh`
 
-# REQUIREMENTS 
+# Manual Install
 `pip install requests`
 <Br>
 `pip install pyfiglet`
 <Br>
 `pip install colorama`
+<Br>
+`python3 reports.py`
