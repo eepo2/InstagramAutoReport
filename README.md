@@ -4,7 +4,7 @@
 
 `bash setup.sh`
 
-## Manual Install
+## Manual Install/Setup
 `pip install requests`
 <Br>
 `pip install pyfiglet`
