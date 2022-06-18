@@ -1,4 +1,4 @@
-# InstagramAutoReport
+# Instagram Auto Report Bot
 
 # One Time Command
 
