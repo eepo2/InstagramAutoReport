@@ -9,4 +9,4 @@
 <Br>
 `pip install pyfiglet`
 <Br>
-`pip install colorama'
+`pip install colorama`
