@@ -1,4 +1,10 @@
 # InstagramAutoReport
 
-####> one time command
-`pip install requests && PyFiglet && coloramma`
+#### > One Time Command
+
+`pip install requests && pyfiglet && coloramma`
+
+# > REQUIREMENTS 
+`pip install requests`
+`pip install pyfiglet`
+`pip install colorama'
