@@ -1,10 +1,11 @@
 # Instagram Auto Report Bot
 
-# Auto Setup [Windows/TERMUX/Android]
+## Auto 
+#### [Windows/TERMUX/Android]
 
 `bash setup.sh`
 
-# Manual Install
+## Manual Install
 `pip install requests`
 <Br>
 `pip install pyfiglet`
